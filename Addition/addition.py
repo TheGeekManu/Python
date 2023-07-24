@@ -12,6 +12,6 @@ try:
     print("The result of " + str(floatInputOne) +" + " + str(floatInputTwo) + " is: " + str(result))
 
 except ValueError:
-    print("Integers Please")
+    print("Float Please")
 
 

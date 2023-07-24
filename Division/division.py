@@ -13,6 +13,6 @@ def division():
         print("The results of the division of " + str(floatInputOne)+ " and " +str(floatInputTwo) + " is: " + str(result))
 
     except ValueError:
-        print("Integers Please")
+        print("Float Please")
 
 division()

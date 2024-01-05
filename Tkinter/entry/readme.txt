@@ -1,0 +1,1 @@
+Allows only a single line of text.
